@@ -14,6 +14,18 @@ Location: Campbell Hall, Room 131A
 
 Time: 3:40pm - 5pm on Mon, Tue, Wed, Thu from July 3rd - August 11th
 
+Topics:
+* Intro to Python (1 week)
+* Computational Physics / Numerical Modeling (2 weeks)
+* Data Analysis / Data Science (2 weeks)
+* Extra Topics + Final Projects (1 week)
+
+
+
+
+
+
+
 
 
 
