@@ -1,4 +1,4 @@
-### Course Information
+### Course Information :snake:
 ----
 **Description**:
 
