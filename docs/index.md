@@ -1,3 +1,9 @@
-#### Instructor: Nick Kern (nkern@berkeley.edu)
-#### Term: Summer, 2017
+### General Information
+----
+##### Instructor: Nick Kern (nkern@berkeley.edu)
+##### Reader: Brandon Park (bpcoy@berkeley.edu)
+
+
+
+
 
