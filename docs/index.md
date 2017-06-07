@@ -16,15 +16,15 @@ Time: 3:40pm - 5pm on Mon, Tue, Wed, Thu from July 3rd - August 11th
 
 Topics:
 
-• Intro to Python (1 week)
-• Computational Physics / Numerical Modeling (2 weeks)
-* Data Analysis / Data Science (2 weeks)
-* Advanced Topics + Final Projects (1 week)
+- Intro to Python (1 week)
+- Computational Physics / Numerical Modeling (2 weeks)
+- Data Analysis / Data Science (2 weeks)
+- Advanced Topics + Final Projects (1 week)
 
 Useful Resources:
 
-• [*Computational Physics with Python*](http://www-personal.umich.edu/~mejn/computational-physics), Mark Newman 
-• [*The Python Decal*](http://ugastro.berkeley.edu/pydecal/Resources.html)
+- [*Computational Physics with Python*](http://www-personal.umich.edu/~mejn/computational-physics), Mark Newman 
+- [*The Python Decal*](http://ugastro.berkeley.edu/pydecal/index.html), UC Berkeley Astronomy
 
 
 
