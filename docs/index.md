@@ -21,7 +21,8 @@ Topics:
 * Data Analysis / Data Science (2 weeks)
 * Advanced Topics + Final Projects (1 week)
 
-
+Useful Resources:
+[*Computational Physics with Python*](http://www-personal.umich.edu/~mejn/computational-physics), Mark Newman 
 
 
 
