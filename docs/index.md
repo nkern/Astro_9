@@ -1,3 +1,3 @@
-### Instructor: Nick Kern
-### Term: Summer, 2017
+#### Instructor: Nick Kern (nkern@berkeley.edu)
+#### Term: Summer, 2017
 
