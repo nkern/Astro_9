@@ -5,7 +5,7 @@
 Astro 9 Python Programming in Astronomy is a 6-week introductory summer course for undergraduate students interested in learning the programming skills needed to enter research in the physical sciences, with an emphasis on solving problems from physics and astrophysics. The course assumes no previous background in either the Python language, or in computer programming in general. We will begin by covering the basics of computer programming and Pythonic abstractions, and will then explore numerical modeling in astrophysical contexts, and analysis of astronomical data sets. 
 
 **Instructor**:
-
+<br>
 Nick Kern (nkern@berkeley.edu)
 
 **Reader**:
