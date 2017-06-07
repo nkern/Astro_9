@@ -1,13 +1,3 @@
-### hello
-
-this is just markdown
-
-```markdown
-
-whatthe
-
-## yes
-
-```
-
+Instructor: Nick Kern
+Term: Summer, 2017
 
