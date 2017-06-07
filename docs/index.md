@@ -1,5 +1,2 @@
----
-layout: home
----
 
 
