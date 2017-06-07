@@ -18,7 +18,7 @@ Topics:
 * Intro to Python (1 week)
 * Computational Physics / Numerical Modeling (2 weeks)
 * Data Analysis / Data Science (2 weeks)
-* Advanced Topics + Final Projects (1 week)
+* Extra Advanced Topics + Final Projects (1 week)
 
 
 
