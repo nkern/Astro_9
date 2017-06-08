@@ -10,7 +10,7 @@ Campbell Hall, Room 131A
 
 **Time**:
 <br>
-3:40pm - 5pm on Mon, Tue, Wed, Thu from July 3rd - August 11th
+3:40pm - 5pm on Mon, Tue, Wed, Thu from July 3rd - August 11th, 2017
 
 **Instructor**:
 <br>
