@@ -1,11 +1,21 @@
 ### Schedule & Files
 ---
 
-**Week of July 3rd:**
+##### Week of July 3rd:
+
+**Monday:**
 
 
-| Mon | Tue | Wed | Thu | 
-| :---: | :---: | :---: | :---: |
-| Lecture 1 | Lecture 2| Lecture 3 | |
-| sublecture | | sublecture | |
+
+**Tuesday:**
+
+
+**Wednesday:**
+
+
+
+##### Week of July 10th:
+
+**Monday:**
+
 
