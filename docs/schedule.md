@@ -1,8 +1,14 @@
+<style type="text/css">
+<!--
+.tab { margin-left: 40px; }
+-->
+</style>
+
 ### Schedule & Files
 ---
 
 ##### Week of July 3rd:
-<p>
+<p class="tab">
 **Monday:**
 
 
