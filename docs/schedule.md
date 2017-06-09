@@ -3,13 +3,19 @@
 
 ##### Week of July 3rd:
 
-**Homework:**
+**Homework:** Due Tuesday, July 11th at 3:30pm
 <br>
 
 
 **Monday:**
 <br>
+Pre-Class Assignments:
+<br>
+
+
 Lecture Materials: 
+<br>
+
 
 
 **Tuesday:**
