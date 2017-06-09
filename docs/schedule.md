@@ -1,30 +1,33 @@
-<style type="text/css">
-<!--
-.tab { margin-left: 40px; }
--->
-</style>
-
 ### Schedule & Files
 ---
 
 ##### Week of July 3rd:
-<p class="tab">
-**Monday:**
 
+**Homework:**
+<br>
+
+
+**Monday:**
+<br>
+Lecture Materials: 
 
 
 **Tuesday:**
+<br>
+Lecture Materials:
 
 
 
 **Wednesday:**
+<br>
+Lecture Materials:
 
 
 
 **Thursday**
+<br>
+Lecture Materials:
 
-
-</p>
 
 
 ##### Week of July 10th:
