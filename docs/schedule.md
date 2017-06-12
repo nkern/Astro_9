@@ -12,7 +12,10 @@
 Pre-Class Assignments:
 <br>
 1. Make sure you can access a bash shell
+<br>
 2. Try to install Python on your machine
+<br>
+Follow <a href="install.md">this guide</a> to get started on these tasks.
 
 Lecture Materials: 
 <br>
