@@ -15,14 +15,40 @@ If you run an older version of Windows, you will have to resort to using applica
 See [here](https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-cygwin/) for how to get started.
 
 On a Mac computer, all you need to do is find the Terminal application located in your Applications/Utilities/ folder.
+This is also called a "command line."
 You can make sure your shell is running bash by typing
 ```bash
 echo $SHELL
 ```
-If the output is something like "/bin/bash" then you are running bash! If not, you can probably access a bash shell by typing
-```bash
-bash
-```
+If the output is something like "/bin/bash" then you are running bash! If not, you can probably access a bash shell just by typing "bash" into your command line.
+
+
+### Installing Python
+
+There are a number of ways to install Python and the various packages we will use during the course.
+For machines running Linux and Unix, you will likely already have an installation of Python present.
+One thing that will be helpful over the course of our exploration of various Python modules is a package-manager.
+One powerful and convenient (and free!) package manager is the [Anaconda installation](https://www.continuum.io/Anaconda-Overview). 
+
+While I`d prefer that you use Anaconda for the course, if you already have a Python installation that you really like and works for you, that is fine.
+The only requirement is that you use Python 3.0 or higher.
+
+You can get started downloading and installing Anaconda [here](https://www.continuum.io/downloads)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
