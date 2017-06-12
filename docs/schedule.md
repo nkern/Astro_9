@@ -11,9 +11,9 @@
 <br>
 Pre-Class Assignments:
 <br>
-1. Make sure you can access a bash shell
+- Make sure you can access a bash shell
 <br>
-2. Try to install Python on your machine
+- Try to install Python on your machine
 
 See [here](install.md)to get started on these tasks.
 
