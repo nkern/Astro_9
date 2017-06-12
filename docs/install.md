@@ -14,6 +14,15 @@ to get started.
 If you run an older version of Windows, you will have to resort to using applications like Cygwin to run Linux software on Windows.
 See [here](https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-cygwin/) for how to get started.
 
+On a Mac computer, all you need to do is find the Terminal application located in your Applications/Utilities/ folder.
+You can make sure your shell is running bash by typing
+```bash
+echo $SHELL
+```
+If the output is something like "/bin/bash" then you are running bash! If not, you can probably access a bash shell by typing
+```bash
+bash
+```
 
 
 
