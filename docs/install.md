@@ -33,7 +33,8 @@ One powerful and convenient (and free!) package manager is the [Anaconda install
 While I`d prefer that you use Anaconda for the course, if you already have a Python installation that you really like and works for you, that is fine.
 The only requirement is that you use Python 3.0 or higher.
 
-You can get started downloading and installing Anaconda [here](https://www.continuum.io/downloads)
+You can get started downloading and installing Anaconda [here](https://www.continuum.io/downloads).
+Make sure you download the version for Python 3.X, and not Python 2.X.
 
 
 ### Installing Git Version Control
