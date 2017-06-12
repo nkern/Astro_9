@@ -11,7 +11,8 @@
 <br>
 Pre-Class Assignments:
 <br>
-
+1. Make sure you can access a bash shell
+2. Try to install Python on your machine
 
 Lecture Materials: 
 <br>
