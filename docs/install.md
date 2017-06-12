@@ -36,7 +36,14 @@ The only requirement is that you use Python 3.0 or higher.
 You can get started downloading and installing Anaconda [here](https://www.continuum.io/downloads)
 
 
+### Installing Git Version Control
 
+A big part of the course is going to be using version control software to track progress and share code between students and instructors.
+The Git software allows us to do this in a clean way.
+You can check if you already have git installed simply by typing "git" into your command line.
+If you get any response ***other than*** "command not found" then you likely already have git installed!
+If you did get something like that, then you should look [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+to get git installed. 
 
 
 
