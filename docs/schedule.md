@@ -25,8 +25,7 @@ Lecture Materials:
 
 **Tuesday:**
 <br>
-Lecture Materials:
-
+Holiday, no class
 
 
 **Wednesday:**
@@ -44,5 +43,122 @@ Lecture Materials:
 ##### Week of July 10th:
 
 **Monday:**
+<br>
+
+
+**Tuesday:**
+<br>
+
+
+
+**Wednesday:**
+<br>
+Lecture Materials:
+
+
+
+**Thursday**
+<br>
+Lecture Materials:
+
+
+##### Week of July 17th:
+
+**Monday:**
+<br>
+
+
+**Tuesday:**
+<br>
+
+
+
+**Wednesday:**
+<br>
+Lecture Materials:
+
+
+
+**Thursday**
+<br>
+Lecture Materials:
+
+
+
+##### Week of July 24th:
+
+**Monday:**
+<br>
+
+
+**Tuesday:**
+<br>
+
+
+
+**Wednesday:**
+<br>
+Lecture Materials:
+
+
+
+**Thursday**
+<br>
+Lecture Materials:
+
+
+
+##### Week of July 31st:
+
+**Monday:**
+<br>
+
+
+**Tuesday:**
+<br>
+
+
+
+**Wednesday:**
+<br>
+Lecture Materials:
+
+
+
+**Thursday**
+<br>
+Lecture Materials:
+
+
+##### Week of August 7th:
+
+**Monday:**
+<br>
+
+
+**Tuesday:**
+<br>
+
+
+
+**Wednesday:**
+<br>
+Lecture Materials:
+
+
+
+**Thursday**
+<br>
+Lecture Materials:
+
+
+
+
+
+
+
+
+
+
 
 
