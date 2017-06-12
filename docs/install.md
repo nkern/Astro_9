@@ -8,10 +8,11 @@ If your computer runs a Linux or Unix operating system, you should be all set to
 If, however, you run Windows, there will be a little bit of work to do in order to access a bash shell.
 
 If you run Windows 10 or higher, this has been made easier for you.
-Follow <a href="https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/">this guide</a> to get started.
+Follow [this guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+to get started.
 
 If you run an older version of Windows, you will have to resort to using applications like Cygwin to run Linux software on Windows.
-See <a href="https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-cygwin/">here</a> for how to get started.
+See [here](https://www.howtogeek.com/howto/41382/how-to-use-linux-commands-in-windows-with-cygwin/) for how to get started.
 
 
 

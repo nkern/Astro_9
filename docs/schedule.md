@@ -15,7 +15,7 @@ Pre-Class Assignments:
 <br>
 2. Try to install Python on your machine
 
-Follow <a href="install.md">this guide</a> to get started on these tasks.
+See [here](install.md)to get started on these tasks.
 
 
 Lecture Materials: 
