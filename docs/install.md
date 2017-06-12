@@ -1,4 +1,4 @@
-#### Accessing a bash shell
+### Accessing a bash shell
 
 You want to be able to manipuate files and data on your computer without having to use your mouse and cursor, but with your keyboard.
 This enable you to manipulate many files at once, and also allows you to automate such processes.
