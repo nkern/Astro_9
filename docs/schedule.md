@@ -3,9 +3,9 @@
 
 ##### Week of July 3rd:
 
-**Homework:**
-<br>
-Due Tuesday, July 11th at 3:30pm
+> **Homework 1:**
+> <br>
+> Due Tuesday, July 11th at 3:30pm
 
 
 **Monday:**
