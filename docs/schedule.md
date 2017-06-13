@@ -5,10 +5,11 @@
 ##### Week of July 3rd:
 ------
 
-**Homework 1:** |
---- |
---- | 
-Due Tuesday, July 11th at 3:30pm |
+**Weekly Homework:**
+<br>
+[Homework 1](empty)
+<br>
+Due Tuesday, July 11th at 3:30pm
 
 
 **Monday:**
