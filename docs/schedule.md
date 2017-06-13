@@ -1,7 +1,9 @@
 ### Schedule & Files
----
+------
 
+<br><br>
 ##### Week of July 3rd:
+------
 
 **Homework 1:** |
 --- |
@@ -37,8 +39,9 @@ Lecture Materials:
 Lecture Materials:
 
 
-
+<br><br>
 ##### Week of July 10th:
+------
 
 **Monday:**
 <br>
@@ -60,7 +63,9 @@ Lecture Materials:
 Lecture Materials:
 
 
+<br><br>
 ##### Week of July 17th:
+------
 
 **Monday:**
 <br>
@@ -82,8 +87,9 @@ Lecture Materials:
 Lecture Materials:
 
 
-
+<br><br>
 ##### Week of July 24th:
+------
 
 **Monday:**
 <br>
@@ -105,8 +111,9 @@ Lecture Materials:
 Lecture Materials:
 
 
-
+<br><br>
 ##### Week of July 31st:
+------
 
 **Monday:**
 <br>
@@ -127,8 +134,9 @@ Lecture Materials:
 <br>
 Lecture Materials:
 
-
+<br><br>
 ##### Week of August 7th:
+------
 
 **Monday:**
 <br>
