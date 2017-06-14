@@ -1,13 +1,10 @@
 ### Schedule & Files
 ------
 
-<br><br>
 ##### Week of July 3rd:
 ------
 
-**Weekly Homework:**
-<br>
-[Homework 1](empty)
+**Weekly Homework:** [Homework 1](empty)
 <br>
 Due Tuesday, July 11th at 3:30pm
 
