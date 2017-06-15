@@ -13,11 +13,12 @@ Due Tuesday, July 11th at 3:30pm
 <br>
 Pre-Class Assignments:
 <br>
--- [Software installation](install.md) tasks.
+-- [Software installation](install.md)
 
 
 Lecture Materials: 
 <br>
+-- [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing)
 
 
 
