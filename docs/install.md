@@ -44,7 +44,9 @@ The Git software allows us to do this in a clean way.
 You can check if you already have git installed simply by typing "git" into your command line.
 If you get any response ***other than*** "command not found" then you likely already have git installed!
 If you did get something like that, then you should look [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-to get git installed. 
+to get git installed.
+
+You will also want to make an account with their online hosting service, [GitHub](https://github.com/), which we will use in the course.  
 
 
 
