@@ -23,7 +23,7 @@ echo $SHELL
 If the output is something like "/bin/bash" then you are running bash! If not, you can probably access a bash shell just by typing "bash" into your command line.
 
 
-### Installing Python
+### Installing Python and Jupyter (IPython) Notebooks
 
 There are a number of ways to install Python and the various packages we will use during the course.
 For machines running Linux and Unix, you will likely already have an installation of Python present.
@@ -36,6 +36,10 @@ The only requirement is that you use Python 3.0 or higher.
 You can get started downloading and installing Anaconda [here](https://www.continuum.io/downloads).
 Make sure you download the version for Python 3.X, and not Python 2.X.
 
+We will also make use of the software Jupyter Notebooks. If you are using anaconda, this may come with anaconda installation. If not, try
+```bash
+conda install jupyter
+```
 
 ### Installing Git Version Control
 
