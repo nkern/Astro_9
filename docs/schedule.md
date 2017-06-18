@@ -15,7 +15,7 @@ You can also find the jupyter notebook lectures in a rendered format on [nbviewe
 * [Software installation](install.md)
 
 **Lecture**:
-* [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing):
+* [01 Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing):
     * Intro to Command Line 
     * Intro to Git
 
