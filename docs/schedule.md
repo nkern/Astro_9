@@ -12,147 +12,100 @@
 **Pre-Class Assignments**:
 * [Software installation](install.md)
 
-**Lectures**:
+**Lecture**:
 * [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing):
     * Intro to Command Line 
     * Intro to Git
 
-**Tuesday:**
+##### Tuesday:
 <br>
 Holiday, no class
 
-
-**Wednesday:**
-<br>
-Lecture Materials:
+##### Wednesday:
 
 
 
-**Thursday**
-<br>
-Lecture Materials:
-
+##### Thursday:
 
 
 <br><br>
 ##### Week of July 10th:
 ------
 
-**Monday:**
-<br>
+##### Monday:
 
 
-**Tuesday:**
-<br>
+##### Tuesday:
 
 
-
-**Wednesday:**
-<br>
-Lecture Materials:
+##### Wednesday:
 
 
-
-**Thursday**
-<br>
-Lecture Materials:
+##### Thursday:
 
 
 <br><br>
 ##### Week of July 17th:
 ------
 
-**Monday:**
-<br>
+##### Monday:
 
 
-**Tuesday:**
-<br>
+##### Tuesday:
 
 
-
-**Wednesday:**
-<br>
-Lecture Materials:
+##### Wednesday:
 
 
-
-**Thursday**
-<br>
-Lecture Materials:
+##### Thursday:
 
 
 <br><br>
 ##### Week of July 24th:
 ------
 
-**Monday:**
-<br>
+##### Monday:
 
 
-**Tuesday:**
-<br>
+##### Tuesday:
 
 
-
-**Wednesday:**
-<br>
-Lecture Materials:
+##### Wednesday:
 
 
-
-**Thursday**
-<br>
-Lecture Materials:
+##### Thursday:
 
 
 <br><br>
 ##### Week of July 31st:
 ------
 
-**Monday:**
-<br>
+##### Monday:
 
 
-**Tuesday:**
-<br>
+##### Tuesday:
 
 
-
-**Wednesday:**
-<br>
-Lecture Materials:
+##### Wednesday:
 
 
+##### Thursday:
 
-**Thursday**
-<br>
-Lecture Materials:
 
 <br><br>
 ##### Week of August 7th:
 ------
 
-**Monday:**
-<br>
+#### Monday:
 
 
-**Tuesday:**
-<br>
+##### Tuesday:
 
 
-
-**Wednesday:**
-<br>
-Lecture Materials:
+##### Wednesday:
 
 
-
-**Thursday**
-<br>
-Lecture Materials:
-
-
+#### Thursday:
 
 
 
