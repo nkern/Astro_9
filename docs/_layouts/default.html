@@ -29,49 +29,6 @@
             </section>
           {% endif %}
         </header>
-
-    <head>
-    <style>
-    ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 0px 250px;
-        overflow: hidden;
-        background-color: #222222;
-        font-size: 16px;
-        font-family: 'Helvetica', sans-serif;
-    }
-
-    li {
-        float: left;
-    }
-
-    li a {
-        display: block;
-        color: white;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-    }
-
-    li a:hover:not(.active) {
-        background-color: #333;
-    }
-
-    .active {
-        background-color: #00ACFD;
-    }
-    </style>
-    </head>
-    <body>
-
-    <ul>
-      <li><a href="index.html">Course Info</a></li>
-      <li><a href="schedule.html">Schedule & Files</a></li>
-    </ul>
-
-    </body>
-
     </div>
 
     <!-- MAIN CONTENT -->
@@ -87,7 +44,7 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <!-- <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p> -->
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
       </footer>
     </div>
 
