@@ -10,9 +10,13 @@
 
 
 **Monday:**
-* Pre-Class Assignments:
-  * [Software installation](install.md)
-* Lecture: [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing)
+<br>
+Pre-Class Assignments:
+<br>
+* [Software installation](install.md)
+<br>
+Lecture:
+* [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing)
     * Intro to Command Line
     * Intro to Git
 
