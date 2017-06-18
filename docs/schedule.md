@@ -19,7 +19,7 @@ Pre-Class Assignments:
 Lecture Materials: 
 <br>
 -- [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing)
-
+-- Intro_CommandLine
 
 
 **Tuesday:**
