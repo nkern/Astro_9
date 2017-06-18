@@ -10,10 +10,11 @@
 
 
 **Monday:**
-<br>
+
 | Pre-Class Assignments |
          ---
 |  [Software installation](install.md) | 
+        ---
 
 | Lecture |
     ---
