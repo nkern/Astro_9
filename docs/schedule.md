@@ -8,18 +8,14 @@
 > <br>
 > Due Tuesday, July 11th at 3:30pm
 
+##### Monday:
+**Pre-Class Assignments**:
+    * [Software installation](install.md)
 
-**Monday:**
-
-| Pre-Class Assignments |
-|         ---           |
-|  [Software installation](install.md) | 
-
-| Lecture |
-|    --- |
-| * [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing) 
+**Lectures**:
+* [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing):
     * Intro to Command Line 
-    * Intro to Git |
+    * Intro to Git
 
 **Tuesday:**
 <br>
