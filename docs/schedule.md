@@ -10,7 +10,7 @@
 
 ##### Monday:
 **Pre-Class Assignments**:
-    * [Software installation](install.md)
+* [Software installation](install.md)
 
 **Lectures**:
 * [Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing):
