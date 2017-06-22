@@ -2,7 +2,7 @@
 ----
 **Description**:
 <br>
-Astro 9: Python Programming in Astronomy is an introductory course in scientific programming with Python. It is aimed to benefit undergraduate students interested in learning programming skills useful for research in the physical sciences, with an emphasis on physics and astrophysics. The course assumes no previous background in either the Python language or computer programming in general. We will begin by covering the basics of computer programming and Pythonic abstractions, and will then explore numerical modeling in astrophysical contexts and analysis of astronomical data sets. 
+Astro 9: Python Programming in Astronomy is an introductory course in scientific programming with Python. It is aimed to benefit undergraduate students interested in learning programming skills useful for research in the physical sciences, with a contextual emphasis on physics and astrophysics. The course assumes no previous background in either the Python language or computer programming in general. We will begin by covering the basics of computer programming and the Python language. We will then study more advanced Python structures, and will eventually apply these topics to numerical modeling in astrophysical contexts and analysis of astronomical data sets. 
 
 **Location**:
 <br>
