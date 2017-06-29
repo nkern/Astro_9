@@ -7,7 +7,7 @@ You can also find the jupyter notebook lectures in a rendered format on [nbviewe
 ------
 
 > **Weekly Homework:**
-[//]: # "> Due Tuesday, July 11th at 3:30pm"
+> Due Tuesday, July 11th at 3:30pm
 
 ##### Monday:
 **Pre-Class Assignments**:
@@ -19,7 +19,6 @@ You can also find the jupyter notebook lectures in a rendered format on [nbviewe
     * Intro to Git
 
 ##### Tuesday:
-<br>
 Holiday, no class
 
 ##### Wednesday:
@@ -97,7 +96,7 @@ Holiday, no class
 ##### Week of August 7th:
 ------
 
-#### Monday:
+##### Monday:
 
 
 ##### Tuesday:
@@ -106,7 +105,7 @@ Holiday, no class
 ##### Wednesday:
 
 
-#### Thursday:
+##### Thursday:
 
 
 
