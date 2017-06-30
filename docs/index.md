@@ -16,8 +16,9 @@ Campbell Hall, Room 131A
 <br>
 Nick Kern (nkern@berkeley.edu)
 <br>
-Office Hours: 
+TALC / Office Hours: 
 <br>
+11am - 12pm on Mon, Fri in Room 121
 
 
 **Reader**:
@@ -30,13 +31,26 @@ Office Hours:
 
 **Topics**:
 <br>
--- Intro to Python (1 week)
+-- Intro to Python (1-2 weeks)
 <br>
--- Computational Physics / Numerical Modeling (2 weeks)
+-- Computational Physics / Numerical Modeling (1-2 weeks)
 <br>
--- Data Analysis / Data Science (2 weeks)
+-- Data Analysis / Data Science (1-2 weeks)
 <br>
 -- Advanced Topics + Final Projects (1 week)
+
+**Homeworks**:
+<br>
+Weekly homework sets will be assigned, and are due the following Tuesday by 3pm.
+We will be using GitHub classroom to assign and collect homework.
+For parts of the homework that ask you to submit Python code, we require
+that you use Python 3.0 or higher.
+
+**Exam and Final Project**:
+There will be a midterm exam the week of July 24th.
+Instead of final exams, we will work on final projects, which will be an application
+of the tools and techniques we learned in class to some topic that interests you. It will
+include a lab-report style write up.
 
 **Useful Resources**:
 <br>
@@ -45,7 +59,8 @@ Office Hours:
 -- [*The Python Decal*](http://ugastro.berkeley.edu/pydecal/index.html), UC Berkeley Astronomy
 <br>
 -- [*The Python Tutorial*](https://docs.python.org/3/tutorial/)
-
+<br>
+-- [*Sortware Carpentry*](https://software-carpentry.org/)
 
 
 
