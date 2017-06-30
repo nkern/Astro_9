@@ -1,0 +1,14 @@
+deer
+rabbit
+horse
+monkey
+giraffe
+penguin
+shark
+mongoose
+springbok
+duiker
+kuru
+kiwi
+elephant
+squirrel
