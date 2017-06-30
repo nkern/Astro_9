@@ -28,7 +28,7 @@ If the output is something like "/bin/bash" then you are running bash! If not, y
 There are a number of ways to install Python and the various packages we will use during the course.
 For machines running Linux and Unix, you will likely already have an installation of Python present.
 One thing that will be helpful over the course of our exploration of various Python modules is a package-manager.
-One powerful and convenient (and free!) package manager is the [Anaconda installation](https://www.continuum.io/Anaconda-Overview). 
+One powerful and convenient (and free!) Python distribution is the [Anaconda installation](https://www.continuum.io/Anaconda-Overview), which comes with the package manager Conda.
 
 While I`d prefer that you use Anaconda for the course, if you already have a Python installation that you really like and works for you, that is fine.
 The only requirement is that you use Python 3.0 or higher.

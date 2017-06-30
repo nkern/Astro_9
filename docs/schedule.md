@@ -5,18 +5,14 @@ You can also find the jupyter notebook lectures in a rendered format on [nbviewe
 
 ##### Week of July 3rd:
 ------
-
 > **Weekly Homework:**
-> Due Tuesday, July 11th at 3:30pm
+> Due Tuesday, July 11th by 3pm
 
 ##### Monday:
 **Pre-Class Assignments**:
 * [Software installation](install.md)
 
 **Lecture**:
-* [01 Intro to Computing](https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing):
-    * Intro to Command Line 
-    * Intro to Git
 
 ##### Tuesday:
 Holiday, no class
@@ -31,11 +27,14 @@ Holiday, no class
 <br><br>
 ##### Week of July 10th:
 ------
+> **Weekly Homework:**
+> Due Tuesday, July 18th by 3pm
 
 ##### Monday:
 
 
 ##### Tuesday:
+> Homework1 due via GitHub by 3pm
 
 
 ##### Wednesday:
@@ -52,7 +51,7 @@ Holiday, no class
 
 
 ##### Tuesday:
-
+> Homwork2 due via GitHub by 3pm
 
 ##### Wednesday:
 
