@@ -1,5 +1,9 @@
 ### Schedule
 -------------
+The course schedule is shown below, with lecture topics and class notes listed inline.
+Note that all course materials can be found at the [GitHub repository](https://github.com/nkern/Astro_9).
+
+Links to lecture topics below are directed to the GitHub repository, however, lectures written with Jupyter Notebooks can also be viewed in rendered format on [nbviewer](http://nbviewer.jupyter.org/github/nkern/Astro_9/tree/master/lectures/).
 
 <br>
 
