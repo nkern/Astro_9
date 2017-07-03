@@ -3,8 +3,6 @@
 
 ##### Week of July 3rd:
 ------
-> **Weekly Homework:**
-> Due Tuesday, July 11th by 3pm
 
 ##### Monday:
 **Pre-Class Assignments**:
@@ -25,8 +23,6 @@ Holiday, no class
 <br><br>
 ##### Week of July 10th:
 ------
-> **Weekly Homework:**
-> Due Tuesday, July 18th by 3pm
 
 ##### Monday:
 
