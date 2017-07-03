@@ -1,104 +1,170 @@
 ### Schedule
 ------
 
-##### Week of July 3rd:
-------
+<head>
+<style>
+table {
+    width:100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+table#t01 tr:nth-child(even) {
+    background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+   background-color:#fff;
+}
+table#t01 th {
+    background-color: black;
+    color: white;
+}
+</style>
+</head>
+<body>
 
-##### Monday:
+<table>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+<br>
+
+<table id="t01">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+##### Monday, Jul. 3:
 **Pre-Class Assignments**:
 * [Software installation](install.md)
 
 **Lecture**:
 
-##### Tuesday:
+##### Tuesday, Jul. 4:
 Holiday, no class
 
-##### Wednesday:
+##### Wednesday, Jul. 5:
 
 
 
-##### Thursday:
+##### Thursday, Jul. 6:
 
 
-<br><br>
-##### Week of July 10th:
 ------
 
-##### Monday:
+##### Monday, Jul. 10:
 
 
-##### Tuesday:
+##### Tuesday, Jul. 11:
 > Homework1 due via GitHub by 3pm
 
 
-##### Wednesday:
+##### Wednesday, Jul. 12:
 
 
-##### Thursday:
+##### Thursday, Jul. 13:
 
 
-<br><br>
-##### Week of July 17th:
 ------
 
-##### Monday:
+##### Monday, Jul. 17:
 
 
-##### Tuesday:
+##### Tuesday, Jul. 18:
 > Homwork2 due via GitHub by 3pm
 
-##### Wednesday:
+
+##### Wednesday, Jul. 19:
 
 
-##### Thursday:
+##### Thursday, Jul. 20:
 
 
-<br><br>
-##### Week of July 24th:
 ------
 
-##### Monday:
+##### Monday, Jul. 24:
 
 
-##### Tuesday:
+##### Tuesday, Jul. 25:
 
 
-##### Wednesday:
+##### Wednesday, Jul. 26:
 
 
-##### Thursday:
+##### Thursday, Jul. 27:
 
 
-<br><br>
-##### Week of July 31st:
 ------
 
-##### Monday:
+##### Monday, Jul. 31:
 
 
-##### Tuesday:
+##### Tuesday, Aug. 1:
 
 
-##### Wednesday:
+##### Wednesday, Aug. 2:
 
 
-##### Thursday:
+##### Thursday, Aug. 3:
 
 
-<br><br>
-##### Week of August 7th:
 ------
 
-##### Monday:
+##### Monday, Aug. 7:
 
 
-##### Tuesday:
+##### Tuesday, Aug. 8
 
 
-##### Wednesday:
+##### Wednesday, Aug. 9:
 
 
-##### Thursday:
+##### Thursday, Aug. 10:
 
 
 
