@@ -91,6 +91,7 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
+        Homework 1 due by 3pm
     </td>
   </tr>
 
