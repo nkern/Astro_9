@@ -59,10 +59,12 @@ Instead of final exams, we will work on final projects, which will be an applica
 of the tools and techniques we learned in class to some topic that interests you. It will
 include a lab-report style write up. More info on this to come.
 
-Each component of the class will be weighted as
+Each component of the class will be weighted as:
 <br>
 Homeworks 40%
+<br>
 Midterm 20%
+<br>
 Final Project 40%
 
 **Useful Resources**:
