@@ -43,7 +43,7 @@ table tr:nth-child(odd) {
     <td>Mon, Jul. 3</td>
     <td>
         • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing">
-                Intro to Shell</a>
+                Intro to Command Line</a>
     </td>
     <td>
         • <a href="https://nkern.github.io/Astro_9/install.html">Software Install</a>
