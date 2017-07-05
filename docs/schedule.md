@@ -62,6 +62,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Wed, Jul. 5</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/01_IntroComputing">
+                Intro to Git</a>
     </td>
     <td>
     </td>
