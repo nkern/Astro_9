@@ -74,6 +74,8 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/02_IntroPython">
+                Intro to Jupyter Notebooks</a>
     </td>
   </tr>
 
@@ -91,7 +93,6 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
-        Homework 1 due by 3pm
     </td>
   </tr>
 
@@ -100,6 +101,7 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
+        Homework 1 due by 3pm
     </td>
   </tr>
 

@@ -18,7 +18,7 @@ Nick Kern (nkern@berkeley.edu)
 <br>
 TALC / Office Hours: 
 <br>
-11am - 12pm on Mon & Fri in Room 121
+11am-12pm on Mon Room 121, 2-3pm on Fri in Room 233
 
 **Reader**:
 <br>
