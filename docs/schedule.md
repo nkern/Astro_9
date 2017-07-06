@@ -72,7 +72,7 @@ table tr:nth-child(odd) {
   <tr>
     <td>Thu, Jul. 6</td>
     <td>
-        * <a href="https://github.com/nkern/Astro_9/tree/master/lectures/02_IntroPython">
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/02_IntroPython">
             Intro to Python I</a>
     </td>
     <td>
