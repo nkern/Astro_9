@@ -95,6 +95,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Tue, Jul. 11</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/02_IntroPython">
+            Intro to Python III</a>
     </td>
     <td>
     </td>
@@ -151,6 +153,37 @@ table tr:nth-child(odd) {
   </tr>
 
 
+  <tr>
+    <td>Mon, Jul. 24</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Tue, Jul. 25</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Wed, Jul. 26</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Thu, Jul. 27</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
 
 
 
