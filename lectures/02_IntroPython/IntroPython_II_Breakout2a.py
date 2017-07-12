@@ -1,6 +1,7 @@
 # magic 8-ball
 import random
 
+
 while True:
     # ask question
     question = input("Ask a yes-or-no question: ")
@@ -29,7 +30,6 @@ while True:
     again = input("Ask another question? [y/n] ")
     if again != 'y':
         break
-
 
 
 
