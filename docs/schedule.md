@@ -141,8 +141,6 @@ table tr:nth-child(odd) {
     <td>
 		• <a href="https://github.com/nkern/Astro_9/tree/master/lectures/03_NumpyScipyMatplot">
                     Intro to Matplotlib</a>
-		• <a href="https://github.com/nkern/Astro_9/tree/master/lectures/03_NumpyScipyMatplot">
-                    Review</a>
     </td>
     <td>
     </td>
