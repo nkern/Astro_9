@@ -149,6 +149,9 @@ table tr:nth-child(odd) {
   <tr>
     <td>Wed, Jul. 19</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/03_NumpyScipyMatplot">
+                    Python Review</a>
+
     </td>
     <td>
 		Homework 2 due by 3pm
