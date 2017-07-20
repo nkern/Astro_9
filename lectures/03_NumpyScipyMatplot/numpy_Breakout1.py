@@ -1,3 +1,4 @@
+import numpy as np
 # create array
 arr = np.arange(11,36)
 arr.resize(5,5)
