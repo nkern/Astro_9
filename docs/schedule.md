@@ -193,11 +193,20 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
+        Homework 3 due by 3pm
     </td>
   </tr>
 
   <tr>
     <td>Thu, Jul. 27</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Fri, Jul. 28</td>
     <td>
     </td>
     <td>
