@@ -24,7 +24,7 @@ def trap_int(f, a, b, N=5):
 # Perform integration!
 I_approx = trap_int(function, -1, 1, N=100)
 
-# Exact value
+# Exact value for a = -1 and b = 1
 I = 8 + 2./3
 
 # Error
