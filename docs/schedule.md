@@ -213,6 +213,70 @@ table tr:nth-child(odd) {
     </td>
   </tr>
 
+  <tr>
+    <td>Mon, Jul. 31</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Tue, Aug. 1</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Wed, Aug. 2</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Thu, Aug. 3</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Mon, Aug. 7</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Tue, Aug. 8</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Wed, Aug. 9</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
+  <tr>
+    <td>Thu, Aug. 10</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
 
 
 </table>
