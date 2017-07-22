@@ -5,7 +5,7 @@ def function(x):
 	return 4*x**3 - 2*x**2 + 2*x + 5
 
 # Define trap integration 
-def trap_int(f, a, b, N=5):
+def trap_int(f, a, b, N=10):
 	# Define x-values
 	x = np.linspace(a, b, N+1)
 
@@ -22,7 +22,7 @@ def trap_int(f, a, b, N=5):
 
 
 # Perform integration!
-I_approx = trap_int(function, -1, 1, N=100)
+I_approx = trap_int(function, -1, 1, N=1)
 
 # Exact value for a = -1 and b = 1
 I = 8 + 2./3
