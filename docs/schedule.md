@@ -278,6 +278,14 @@ table tr:nth-child(odd) {
     </td>
   </tr>
 
+  <tr>
+    <td>Mon, Aug. 14</td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+
 
 </table>
 <br>
