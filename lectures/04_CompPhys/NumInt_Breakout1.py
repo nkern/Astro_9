@@ -20,13 +20,14 @@ def trap_int(f, a, b, N=10):
 
 	return I
 
+if __name__ == "__main__":`
 
-# Perform integration!
-I_approx = trap_int(function, -1, 1, N=1)
+	# Perform integration!
+	I_approx = trap_int(function, -1, 1, N=1)
 
-# Exact value for a = -1 and b = 1
-I = 8 + 2./3
+	# Exact value for a = -1 and b = 1
+	I = 8 + 2./3
 
-# Error
-print("We recover I to an accuracy of {:.5f}".format(np.abs(I-I_approx)))
+	# Error
+	print("We recover I to an accuracy of {:.5f}".format(np.abs(I-I_approx)))
 
