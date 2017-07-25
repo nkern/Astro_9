@@ -109,8 +109,8 @@ table tr:nth-child(odd) {
             Intro to Python III</a>
     </td>
     <td>
-        Homework 1 due by 3pm; <a href="https://github.com/nkern/Astro_9/tree/master/hmk_sols">
-		Solution</a>
+        Homework 1 due by 3pm;
+        <a href="https://github.com/nkern/Astro_9/tree/master/hmk_sols">Solution</a>
     </td>
   </tr>
 
@@ -154,7 +154,8 @@ table tr:nth-child(odd) {
                     Python Review</a>
     </td>
     <td>
-		Homework 2 due by 3pm
+		Homework 2 due by 3pm;
+        <a href="https://github.com/nkern/Astro_9/tree/master/hmk_sols">Solution</a>
     </td>
   </tr>
 
@@ -184,6 +185,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Tue, Jul. 25</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
+                    Numerical Differentiation</a>
     </td>
     <td>
     </td>
