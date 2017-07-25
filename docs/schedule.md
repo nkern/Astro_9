@@ -186,7 +186,9 @@ table tr:nth-child(odd) {
     <td>Tue, Jul. 25</td>
     <td>
         • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
-                    Numerical Differentiation</a>
+                    Numerical Integration</a>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
+                            Numerical Differentiation</a>
     </td>
     <td>
     </td>
