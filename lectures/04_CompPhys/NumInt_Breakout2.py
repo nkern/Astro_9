@@ -14,13 +14,15 @@ def simp_int(f, a, b, N=10):
     
     # get y-values
     y = f(x)
-    
+   
+    # create weights
+    w = np.ones(len(y))
     # add multiplicative factors
-    y[1:-1:2] *= 4
-    y[2:-2:2] *= 2
+    w[1:-1:2] *= 4
+    w[2:-2:2] *= 2
     
     # Compute sum
-    I = (h/3.)*sum(y)
+    I = (h/3.) * np.dot(y, w)
     
     return I
 
