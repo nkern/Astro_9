@@ -220,6 +220,7 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
+        Midterm due by 6pm
     </td>
   </tr>
 
