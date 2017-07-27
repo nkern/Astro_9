@@ -203,7 +203,9 @@ table tr:nth-child(odd) {
                     Numerical ODEs</a>
     </td>
     <td>
-        Homework 3 due by 3pm; Midterm assigned
+        Homework 3 due by 3pm;
+        <a href="https://github.com/nkern/Astro_9/tree/master/hmk_sols">Solution</a>;
+        Midterm assigned
     </td>
   </tr>
 
