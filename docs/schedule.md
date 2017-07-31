@@ -231,6 +231,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Mon, Jul. 31</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
+                            Numerical ODEs</a>
     </td>
     <td>
     </td>
