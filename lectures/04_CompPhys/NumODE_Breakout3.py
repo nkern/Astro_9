@@ -44,7 +44,7 @@ if __name__ == "__main__":
     r1 = np.array([np.pi/3, 0])
 
     # run method
-    tpoints, theta_points = RK4(f, r1, 0, 5, N=100)
+    tpoints, theta_points = RK4(f, r1, 0, 5, N=300)
 
     # plot
     fig = plt.figure(figsize=(10,6))
@@ -58,8 +58,8 @@ if __name__ == "__main__":
     plt.show()
 
     ## Change Initial Conditions ##
-    tpoints1, theta_points1 = RK4(f, r1, 0, 5, N=100)
-    tpoints2, theta_points2 = RK4(f, r1, 0, 5, N=45)
+    tpoints1, theta_points1 = RK4(f, r1, 0, 5, N=150)
+    tpoints2, theta_points2 = RK4(f, r1, 0, 5, N=60)
     tpoints3, theta_points3 = RK4(f, r1, 0, 5, N=30)
 
     # plot
@@ -80,7 +80,7 @@ if __name__ == "__main__":
     r1 = np.array([np.pi/1.01, 0])
 
     # run method
-    tpoints, theta_points = RK4(f, r1, 0, 5, N=75)
+    tpoints, theta_points = RK4(f, r1, 0, 5, N=300)
 
     # plot
     fig = plt.figure(figsize=(10,6))
