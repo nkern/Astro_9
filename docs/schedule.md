@@ -199,8 +199,6 @@ table tr:nth-child(odd) {
     <td>
         • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
                     Numerical Differentiation</a>
-        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
-                    Numerical ODEs</a>
     </td>
     <td>
         Homework 3 due by 3pm;
@@ -241,6 +239,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Tue, Aug. 1</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
+                            Numerical ODEs; Boundary Value Problems</a>
     </td>
     <td>
     </td>
