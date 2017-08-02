@@ -249,6 +249,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Wed, Aug. 2</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/04_CompPhys">
+                            Fourier Transforms</a>
     </td>
     <td>
     </td>
@@ -300,14 +302,17 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
+        Last day of class
     </td>
   </tr>
 
   <tr>
     <td>Mon, Aug. 14</td>
     <td>
+        No class
     </td>
     <td>
+        Final projects due by 6pm
     </td>
   </tr>
 
