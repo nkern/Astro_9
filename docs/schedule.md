@@ -269,7 +269,10 @@ table tr:nth-child(odd) {
     <td>
     </td>
     <td>
-        Homework 4 due by 3pm
+        Homework 4 due by 3pm;
+        Start thinking about
+• <a href="https://nkern.github.io/Astro_9/final_proj.html">Final Projects</a>
+        
     </td>
   </tr>
 
