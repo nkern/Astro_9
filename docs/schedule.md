@@ -271,7 +271,7 @@ table tr:nth-child(odd) {
     <td>
         Homework 4 due by 3pm;
         Start thinking about
-• <a href="https://nkern.github.io/Astro_9/final_proj.html">Final Projects</a>
+ <a href="https://nkern.github.io/Astro_9/final_proj.html">Final Projects</a>
         
     </td>
   </tr>
