@@ -279,8 +279,12 @@ table tr:nth-child(odd) {
   <tr>
     <td>Mon, Aug. 7</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/06_Animation">
+                            3D Animation w/ VPython</a>
+
     </td>
     <td>
+        Confirm w/ me about your Final Project
     </td>
   </tr>
 
