@@ -281,7 +281,6 @@ table tr:nth-child(odd) {
     <td>
         • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/06_Animation">
                             3D Animation w/ VPython</a>
-
     </td>
     <td>
         Confirm w/ me about your Final Project
@@ -291,6 +290,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Tue, Aug. 8</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/05_Regression">
+                            Linear Regression w/ VPython</a>
     </td>
     <td>
         Homework5 due by 3pm
