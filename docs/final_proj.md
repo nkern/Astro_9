@@ -8,7 +8,9 @@ The idea behind the final project is to take some element of what we learned in 
 The final projects should be centered on creating Python code to implement your idea. 
 
 We want you to provide a lab-report style write-up for the final project.
-If you'd like to do this with the Jupyter Notebook, that is fine, but if you are uncomfortable using MarkDown in the Notebook, you can also submit a Word document.
+If you'd like to do this with the Jupyter Notebook that is fine, but if you are uncomfortable using MarkDown in the Notebook, you can also submit a standard document.
+If you do submit a standard document as your lab-report, **please submit it as a .pdf file**.
+If you write your document with Microsoft Word, you can do this via "Print/Save As PDF".
 The expectation is that the final report (with figures) should be at least 3 pages long with double-spaced text and 1-inch margins (think two pages of text and 1 page of figures).
 You should also submit your Python code along with the write-up.
 
