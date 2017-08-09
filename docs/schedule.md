@@ -301,6 +301,8 @@ table tr:nth-child(odd) {
   <tr>
     <td>Wed, Aug. 9</td>
     <td>
+        • <a href="https://github.com/nkern/Astro_9/tree/master/lectures/05_Regression">
+                            Linear Regression</a>
     </td>
     <td>
     </td>
